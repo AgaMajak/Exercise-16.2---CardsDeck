@@ -1,8 +1,8 @@
 package data;
 
 public class Card {
-    Color color;
-    Symbol symbol;
+    private Color color;
+    private Symbol symbol;
 
     public Card(Color color, Symbol symbol) {
         this.color = color;
